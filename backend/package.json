@@ -1,7 +1,7 @@
 {
   "name": "react-node-todolist",
   "version": "1.0.0",
-  "description": "swagger api server",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
